@@ -73,7 +73,6 @@ const CarRPAForm = () => {
       doc.text(`${key}: ${value}`, 10, yPos);
       yPos += 10;
     }
-    doc.addPage("a6", "l");
     doc.save("Download.pdf");
   };
 
