@@ -13,7 +13,7 @@ To set up this project follow steps-
 ### Step-1: To Clone Github Repo
 
 Connect to GitHub and clone the repository in your local using the
-command `git clone [https://github.com/modern_realtor.git](https://github.com/thedappernisarg/modern-realtor-challenge)`
+command `git clone https://github.com/thedappernisarg/modern-realtor-challenge.git`
 
 ### Step-2: To Run application Locally
 
