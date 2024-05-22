@@ -1,0 +1,61 @@
+.question {
+  font-size: 20px;
+}
+
+.left-panel {
+  padding-right: 15px;
+}
+
+.right-panel {
+  padding-left: 15px;
+}
+
+.form-container {
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.form-container h5 {
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+.form-container label {
+  font-size: 26px;
+}
+
+.form-container p {
+  margin-bottom: 10px;
+}
+
+.form-container .form-group {
+  margin-bottom: 20px;
+}
+
+.form-container .form-control {
+  border-radius: 0.25rem;
+}
+
+.form-container .btn-primary {
+  background-color: #d8a142; /* New button background color */
+  border-color: #d8a142; /* New button border color */
+  transition: background-color 0.3s ease, border-color 0.3s ease; /* Transition effect for color change */
+}
+
+.form-container .btn-primary:hover {
+  background-color: #b38a30; /* New hover background color */
+  border-color: #8a6521; /* New hover border color */
+}
+.scrollable {
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.page-number {
+  margin: 0 10px;
+}
