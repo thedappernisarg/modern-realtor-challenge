@@ -15,7 +15,7 @@ const App = () => {
       <div className="my-4">
         <Routes>
           <Route path="/" element={<CarRPAForm />} />
-          <Route path="/inquiry-form" element={<CarRPAForm />} />
+          <Route path="/form" element={<CarRPAForm />} />
           <Route path="/market-analysis" element={<MarketAnalysis />} />
           <Route path="/dashboard" element={<Dashboard />} />
         </Routes>
